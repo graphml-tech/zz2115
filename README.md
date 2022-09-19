@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning engineering and graph analytics
 - 🌱 I’m currently learning emerging AI technologies
 - 💞️ I’m looking to collaborate on putting machine learning into production
-- 📫 How to reach me ...
+- 📫 How to reach me: chihpoc@gmail.com
 
 <!---
 chihpoc/chihpoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
